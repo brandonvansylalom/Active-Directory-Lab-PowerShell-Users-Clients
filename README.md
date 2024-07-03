@@ -22,7 +22,7 @@ This project is a continuation of the (https://github.com/brandonvansylalom/Acti
 
 <p align="center">
 
-On the VM, open open Internet Explorer, hit ok and paste this link onto the browser and Enter. (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGxkNF9jTFlMNjRJTGU1ZFdYakFsVm04akllUXxBQ3Jtc0ttTlk2MVNQSUdqeW1YQXVCWGptdXdCT2xjb2NlNnFIVElyZVR4Ym45U01iMjdTVHhuaXFpcjU0bjktZ2RQcnQzb1JKQVoxVFI1bTh3d1hjMjIwaWxFQjJNZFQtMklIVV9oNmRkdmQwS2NXSkd3ZlZ4RQ&q=https%3A%2F%2Fgithub.com%2Fjoshmadakor1%2FAD_PS%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=MHsI8hJmggI) <br/>
+On the VM, open Internet Explorer, hit ok and paste this link onto the browser and Enter. (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGxkNF9jTFlMNjRJTGU1ZFdYakFsVm04akllUXxBQ3Jtc0ttTlk2MVNQSUdqeW1YQXVCWGptdXdCT2xjb2NlNnFIVElyZVR4Ym45U01iMjdTVHhuaXFpcjU0bjktZ2RQcnQzb1JKQVoxVFI1bTh3d1hjMjIwaWxFQjJNZFQtMklIVV9oNmRkdmQwS2NXSkd3ZlZ4RQ&q=https%3A%2F%2Fgithub.com%2Fjoshmadakor1%2FAD_PS%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=MHsI8hJmggI) <br/>
 <img src="https://imgur.com/vfDe2YZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
