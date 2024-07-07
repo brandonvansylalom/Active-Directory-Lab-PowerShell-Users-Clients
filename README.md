@@ -1,7 +1,12 @@
 <h1>Active Directory Home Lab Project - Using PowerShell and scripts to create users on Active Directory</h1>
 
 <h2>Description</h2>
-This project is a continuation of the (https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-DHCP-Setup) project/repository and we will be exploring PowerShell to create users with scripts. See diagram below for reference/network information.
+This project is a continuation of the (https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-DHCP-Setup) project/repository and I will be exploring PowerShell to create users with scripts. See diagram below for reference/network information.
+
+<br>
+<br/>
+
+<b>ALL CREDITS ON THIS PROJECT GOES TO JOSH MADAKOR. <b> 
 
 <br/>
 <img src="https://imgur.com/yibftVW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
